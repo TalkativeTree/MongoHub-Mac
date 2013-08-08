@@ -17,7 +17,7 @@ or clone the source code and compile it on your own system.
 
 ## Build
 
-Before builing ensure the following frameworks are present:
+Before building ensure the following frameworks are present:
 	/Library/PrivateFrameworks
 		BWToolkitFramework.framework
 		Sparkle.framework
